@@ -1,0 +1,17 @@
+.cor1 {
+    background-color: hsl(0,100%,50%); 
+}
+.cor2{background-color: hsl(200,50%,50%);}
+.cor3{background-color: rgb(38, 136, 185);}
+.cor4{background-color: hsl(200,40%,30%);}
+#titulo {background-color:hsl(240,100%,30%);
+        color: hsl(0,100%,100%)}
+
+#titulo:hover{
+    background-color: hsl(240,700%,50%);
+}
+
+/* Padrão normal - hsl( numero da cor de 0 até 360, saturação de 0% até 100%,
+luminosidade de 0% até 100%) exemplo: hsl(0,100%,50%); 
+
+*/

@@ -1,0 +1,18 @@
+.cor1{ background-color: rgb(255,0,0);}/* vermelho*/
+.cor2{background-color: rgb(0,255,0);}
+.cor3{background-color: rgb(0%, 0%,100%);}
+.cor4{background-color:rgb(255,255,0);}
+.cor5{background-color: rgb(128,128,128);}
+.cor6{background-color: rgb(10,10,10);
+                 color: rgb(100%,100%,100%); }
+.cor7{background-color: rgb(163,186,195);}
+#corpo{background-color: rgba(1, 168, 194, 0.267);}
+#titulo{background-color: rgba(234, 235, 237);
+                   color: rgb(83, 62, 133) }
+/*
+Alterar as cores da classe cor6,usando em rgb
+coolors.co - > site de palheta de cores
+https://colorhunt.co/ -> site de palhetas de cores
+
+
+*/

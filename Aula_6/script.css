@@ -1,0 +1,12 @@
+body{
+    background-color: hsl(180,80%,80%);
+}
+.box{
+    background-color: hsl(90,50%,50%);
+     /* margin-left:10px;Desloca a caixa inteira */
+     margin: 0 auto; /* centraliza a pagina*/
+     padding-left:10px;/* Desloca a penas o conteudo dentro da caixa */
+     border: 2px /*solid*/ groove blue;  /*Coloca uma borda dentro da caixa */
+     width: 50%; /*largura ; 800px expressão de valor fixo - 50% vai reduzindo de acordo com a pagina*/
+     height: 300px; /*altura*/
+}
